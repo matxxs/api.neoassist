@@ -32,7 +32,7 @@ Este endpoint permite rastrear um pedido específico.
 ```
 
 ### Parâmetros de URL
-<strong> endpoint </strong> - O número do pedido que deseja rastrear. Deve conter caracteres 16 ex: 1410770512849-01, tipo da variável string.
+<strong> endpoint </strong> - O número do pedido que deseja rastrear. Deve conter caracteres 16 ex: XXXXXXXXXXXXX-XX, tipo da variável string.
 
 ### Requisição 
 Não são necessários parâmetros adicionais no corpo da requisição.
