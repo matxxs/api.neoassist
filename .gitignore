@@ -1,0 +1,8 @@
+.vs
+MercosulEspumas.Api/Settings.cs
+MercosulEspumas.Api/.config
+MercosulEspumas.Api/Repositories/UserRepository.cs
+MercosulEspumas.Api/appsettings.json
+MercosulEspumas.Api/bin
+MercosulEspumas.Api/obj
+MercosulEspumas.Api/Properties
